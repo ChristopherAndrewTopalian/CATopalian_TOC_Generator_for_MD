@@ -1,5 +1,5 @@
 # CATopalian TOC Generator for MD
-We can make a table of contents easily for our Code projects on GitHub, using this TOC generator for MD script. Just place the bat file wherever your README.md file is and then double click it. It wil find all scripts of that language chosen and make a table of contents formatted as md links that have a new line inbetween each other.
+We can make a table of contents easily for our Code projects on GitHub, using this TOC generator for MD script. Just place the bat file wherever your README.md file is and then double click it. It will find all scripts of that language chosen and make a table of contents formatted as md links that have a new line in between each other.
 
 Note: The python script makes a TOC as well as a CODE BOOK!
 
